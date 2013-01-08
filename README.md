@@ -4,11 +4,11 @@ For details on Wunderlist, please see http://www.6wunderkinder.com. Wunderlist s
 
 ## Current status
 
-This is the 1.0 development branch of Wunderlist and is __no longer actively maintained__. That means that pull requests are not reviewed and merged, but the repository remains open as a source of knowledge for anyone building a desktop application with Titanium Desktop SDK.
+This is the 1.0 development branch of Wunderlist and is __no longer actively maintained__. That means that pull requests are not reviewed and merged, but the repository remains open as a source of knowledge for anyone building a desktop application with Ti Desktop SDK.
 
 ## Building Wunderlist
 
-Wunderlist is based on Titanium Desktop SDK, now part of Apache Foundation. Download the current Titanium Desktop stable on http://www.appcelerator.com/products/download/ and create a new desktop project. Then open terminal, go into the "Resources" folder of the empty project you created and type __"git clone git@github.com:6wunderkinder/wunderlist.git ."__.
+Wunderlist is based on Ti Desktop SDK, now part of Apache Foundation. Download the current Ti Desktop stable on http://www.appcelerator.com/products/download/ and create a new desktop project. Then open terminal, go into the "Resources" folder of the empty project you created and type __"git clone git@github.com:6wunderkinder/wunderlist.git ."__.
 
 ## Getting assistance
 
